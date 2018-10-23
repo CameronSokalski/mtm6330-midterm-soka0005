@@ -1,9 +1,19 @@
 //custom themeing
+
+//change primary color to better match header images
 $primary: rgb(213, 132, 46);
+
+//remove gray border from cards
 $card-border-color: rgba(0,0,0,0);
+
+//Shrink display-4 size for headers in collection pages
 $display4-size: 2.5rem;
 $display4-weight: 200;
+
+//change button animation size
 $input-btn-focus-width: .4rem;
+
+//reduce site-wide font weight
 $font-weight-normal: 250;
 
 
